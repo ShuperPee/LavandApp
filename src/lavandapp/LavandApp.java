@@ -16,7 +16,7 @@ public class LavandApp {
      */
     public static void main(String[] args) {
         // Applicação LavandApp
-        //YOU MUST WORK GODDAMMIT
+        System.out.println("Exemplo de uma tualização");
     }
     
 }
