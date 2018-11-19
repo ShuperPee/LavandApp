@@ -7,7 +7,7 @@ package lavandapp;
 
 /**
  *
- * @author ShuperPee
+ * @author PedroAlves
  */
 public class LavandApp {
 
